@@ -1,0 +1,9 @@
+$ git clone https://EFTestMile@dev.azure.com/EFTestMile/EFAppTest/_git/EFAppTest
+$ ls -la
+$ cd EFAppTest/
+$ ls -la
+$ git add .
+$ code .
+$ git commit -m "initial commit"
+mile.ivanovski@M-IVANOVSKI MINGW64 /d/TestMileRepos/EFAppTest (master)
+$ git push
